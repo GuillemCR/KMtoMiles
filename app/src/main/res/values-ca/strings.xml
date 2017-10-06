@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Conversor KM-Milles</string>
+    <string name="btn_KM">A Kilòmetres</string>
+    <string name="btn_Miles">A Milles</string>
+    <string name="text_KM">Kilòmetres</string>
+    <string name="text_Miles">Milles</string>
+</resources>
